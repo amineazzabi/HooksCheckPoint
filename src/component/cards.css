@@ -1,0 +1,34 @@
+
+.descript{
+    color:black;
+    font-weight: bold;
+    width: 250px;
+    height: 300px;
+    text-align: justify;
+    font-size:small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5%;
+}
+.title{
+    background-color:darkblue;
+    color: aliceblue;
+    font-size: xx-large;
+}
+.movies{
+    display:flex;
+       
+align-items:center;
+    border-style: solid;
+    border-color: blue;
+}
+.rate{
+    display:flex;
+    
+align-items:center;
+
+}
+.genre{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: red;
+    font-size:x-large;
+}
